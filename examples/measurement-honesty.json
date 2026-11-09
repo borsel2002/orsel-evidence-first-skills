@@ -1,0 +1,1 @@
+{"data_class":"synthetic_public_example","events":[{"event_id":"demo-1","visitor":"demo-a","name":"visit"},{"event_id":"demo-2","visitor":"demo-b","name":"visit"},{"event_id":"demo-3","visitor":"demo-a","name":"conversion"},{"event_id":"demo-3","visitor":"demo-a","name":"conversion"}]}

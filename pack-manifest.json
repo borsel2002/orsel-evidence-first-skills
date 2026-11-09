@@ -1,0 +1,25 @@
+{
+  "files": {
+    ".gitignore": "3449fd3f1df6ffd4bef8eb2339fd0e8fb399d2869cff54a999cbaf6fe51ae3c0",
+    "LICENSE": "00850a727279c3543212f02aa78b770bd1a81bfac2486b6889bdd4e3c94b6d9a",
+    "NOTICE.md": "d62be177905b94e49dc3060ea6be47dccd975efcc5af8295b0d96920a7913bc6",
+    "README.md": "2c24a3f17f3f53b5b968451e9423d66fbe9d1f924872094b8474a42fe8d1d8a5",
+    "docs/opt-in-distribution.md": "627a5f5c9e6de57ac83c6e7be0f2d9e093f936af335606c726303036a02cec48",
+    "examples/measurement-honesty.json": "99483c8da4188acee9437599e45c7801b497a80ff9ec04d3b287cdb1dd695e74",
+    "examples/permission-first-followup.json": "bd31315b4b57662fc8a50d62d8f9b94d00e2b6322d8ca052634fccb4ea21fa53",
+    "examples/source-grounded-brief.json": "24dbefae6e4d390d0e2c1d1c621f14ab15a63f8bc82e54fa205d0eb8fc69eaa2",
+    "skill_pack.py": "591ea08b1a0e3781d7b6b00e2bb44b0ac0baca7927234f10d7efd14257bd8bdb",
+    "skills/measurement-honesty/SKILL.md": "0b43e71ffb94568b66eb96d45b0bafe5f68eb4fe1e936a874a980f62d808ab61",
+    "skills/permission-first-followup/SKILL.md": "9e9d753a2334aa589da7f71f181c9ee3afe101a2e720a667cf3ea19e94c3b11b",
+    "skills/source-grounded-brief/SKILL.md": "81a734dded98e11ddf3c5b6b8c50313667f5e341a96ebc83439108d758f0e8c2",
+    "tests/test_pack.py": "716298e4a3f37e198297cb413fb85bdc55298b54c11b635b14cf7b1eef16cb79",
+    "web/index.html": "d4a52087da9dcb2c0a73ba2262737706267f5c3561f71381bb05f060601e7db4"
+  },
+  "purpose": "Original public skill instructions; no owner memory or client data",
+  "schema": 1,
+  "skills": [
+    "source-grounded-brief",
+    "permission-first-followup",
+    "measurement-honesty"
+  ]
+}
